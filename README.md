@@ -9,8 +9,7 @@ Image of the render of the lamp
 Cart image
 ![First Image](Captura%20de%20pantalla%202025-12-13%20120915.png)
 
-
-##Instrucions!
+## Instrucions!
 
 Step 1
 
