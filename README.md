@@ -5,16 +5,19 @@ The other day I was scroling through youtube, and i founded something that reall
 ## Images!
 
 Final Images
+<br>
 ![Final Image](IMG/lamp.png)
 
 Render 
+<br>
 ![Second Image](IMG/render.png)
 
 BOM 
+<br>
 ![First Image](IMG/BOM.png)
 
-## Instrucions!
-
+## Instructions!
+<br>
 ![Instructions](IMG/instructions.png)
 
 
